@@ -28,4 +28,4 @@ This project is built for learning backend security concepts, Express middleware
 ## Author
 Muhammad Hamza  
 LinkedIn: https://www.linkedin.com/in/mhamza-se  
-LinkedIn Post: (add your post link here)
+LinkedIn Post: https://www.linkedin.com/posts/mhamza-se_nodejs-nodejs-express-ugcPost-7457123054410854400-m41B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFC1dRwBJw9Hjdk96lKLzScF6CQdWMYwQpo
